@@ -10,13 +10,20 @@
     "id": 2,
     "title": "Rolex Daytona",
     "price": 9800,
-    "description": "Legendary moonwatch chronograph.",
+    "description": "The 18 ct gold versions of the Cosmograph Daytona with a Cerachrom bezel are available with an Oysterflex bracelet. Developed by Rolex and patented, it singularly combines the robustness of a metal bracelet with the comfort of an elastomer bracelet. It is made up of two flexible curved metal blades – one in each bracelet section – overmoulded with high-performance black elastomer. For optimum comfort, the Oysterflex bracelet is equipped with cushions on its inner sides and an Oysterlock safety clasp to prevent accidental opening. Its length may be adjusted via the ingenious Rolex Glidelock extension system.",
     "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126519ln-0006.png"
   },
   {
     "id": 3,
     "title": "Rolex Datejust",
     "price": 7400,
+    "description": "Elegant racing-inspired luxury watch.",
+    "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126334-0014.png"
+  },
+  {
+    "id": 3,
+    "title": "Rolex Oyster Perpetual",
+    "price": 480,
     "description": "Elegant racing-inspired luxury watch.",
     "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126334-0014.png"
   }
