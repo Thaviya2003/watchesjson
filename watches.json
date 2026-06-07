@@ -33,5 +33,40 @@
     "price": 10480,
     "description": "the Land-Dweller presents a unique vision of modern sport watchmaking. With this model, Rolex has opened new horizons, both technical and aesthetic, looking resolutely to the future.",
     "image": "https://www.bachendorfs.com/upload/rolex_v7/product/landscape/upright_m127334-0001.webp"
+  },
+  {
+    "id": 6,
+    "title": "TAG Heuer Monaco Chronograph",
+    "price": 390,
+    "description": "The TAG Heuer Monaco Chronograph enters a new generation with a refined square 39mm grade 5 titanium case combining lightness, durability, and ergonomic comfort. Its classic dynamic lines echo the racing heritage of the original Heuer Monaco while introducing modern design codes and the in-house automatic Calibre TH20-11.",
+    "image": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw0c00305b/TAG_Heuer_Monaco/CBW218B.FT8124/CBW218B.FT8124_Soldier.png"
+  },
+  {
+    "id": 7,
+    "title": "TAG Heuer Carrera Day-Date",
+    "price": 5480,
+    "description": "Elegant classic and refined the TAG Heuer Carrera Day-Date pairs its deep green sunray-brushed dial with the manufacture Calibre TH31-02 movement. Designed for enduring precision and effortless style, this refined 41mm model captures the TAG Heuer Carrera’s timeless spirit and contemporary sophistication.",
+    "image": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw549747e6/TAG_Heuer_Carrera/WDA2112.BA0043/WDA2112.BA0043_Soldier.png"
+  },
+  {
+    "id": 8,
+    "title": "TAG Heuer Formula 1 Chronograph",
+    "price": 6370,
+    "description": "Inspired by the intensity of racing, the TAG Heuer Formula 1 Chronograph in 44mm is crafted for true racing enthusiasts. The sleek titanium case coated with black DLC and vibrant red accents make this timepiece a Sport bold statement on and off the track.",
+    "image": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dwacb37533/TAG_Heuer_Formula_1/CBZ2085.FT8093/CBZ2085.FT8093_Soldier.png"
+  },
+  {
+    "id": 9,
+    "title": "Patek Philippe Nautilus 50th Anniversary",
+    "price": 195480,
+    "description": "The Nautilus 50th Anniversary Ref. 5810/1G-001 goes back to basics, and that’s exactly its strength. This 41 mm model captures the purest expression of the Patek Philippe Nautilus, focusing only on what truly matters.Made in white gold, it combines a strong presence with a slim 6.9 mm profile, making it both elegant and comfortable on the wrist. The integrated bracelet flows perfectly from the case, reinforcing the iconic Nautilus silhouette.",
+    "image": "https://amz.luxewatches.co.uk/app/uploads/2022/12/16162919/5712_1R_001_1-1.png"
+  },
+  {
+    "id": 10,
+    "title": "audemars piguet",
+    "price": 10280,
+    "description": "Founded in 1875, Audemars Piguet is a symbol of watch-making excellence and innovation passed down through generations.",
+    "image": "https://assets.hautehorlogerie.org/xl/66c22399-d017-c34b-52b4-b3f9bfe00304.png"
   }
 ]
