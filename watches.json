@@ -3,15 +3,15 @@
     "id": 1,
     "title": "Rolex Submariner",
     "price": 12500,
-    "description": "Luxury Swiss diving watch.",
+    "description": "The classic benchmark among divers’ watches. A partner in forging new paths. An icon with a universal aura. The Oyster Perpetual Submariner was Rolex’s first divers’ wristwatch to be waterproof. Now waterproof have conquered new territories far beyond the underwater world.",
     "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126610ln-0001.png"
   },
   {
     "id": 2,
     "title": "Rolex Daytona",
     "price": 9800,
-    "description": "The 18 ct gold versions of the Cosmograph Daytona with a Cerachrom bezel are available with an Oysterflex bracelet. Developed by Rolex and patented, it singularly combines the robustness of a metal bracelet with the comfort of an elastomer bracelet. It is made up of two flexible curved metal blades – one in each bracelet section – overmoulded with high-performance black elastomer. For optimum comfort, the Oysterflex bracelet is equipped with cushions on its inner sides and an Oysterlock safety clasp to prevent accidental opening. Its length may be adjusted via the ingenious Rolex Glidelock extension system.",
-    "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126519ln-0006.png"
+    "description": "The eighteen ct gold versions of the Cosmograph Daytona with a Cerachrom bezel are available with an Oysterflex bracelet. Developed by Rolex and patented, it singularly combines the robustness of a metal bracelet with the comfort of an elastomer bracelet. It is made up of two flexible curved metal blades – one in each bracelet section – overmoulded with high-performance black elastomer. For classic and optimum comfort, the Oysterflex bracelet is equipped with cushions on its inner sides and an Oysterlock safety clasp to prevent accidental opening. Its length may be adjusted via the ingenious Rolex Glidelock extension system.",
+    "image": "https://www.timesecret.ae/cdn/shop/files/1_cda5b284-0875-49d2-9243-19a4bc0ce2d5.jpg?v=1733392528&width=1920"
   },
   {
     "id": 3,
@@ -25,6 +25,13 @@
     "title": "Rolex Oyster Perpetual",
     "price": 480,
     "description": "Elegant racing-inspired luxury watch.",
-    "image": "https://sgp1.vultrobjects.com/rolex/Official-Rolex-Selection_png/upright_watch_assets_landscape/m126334-0014.png"
+    "image": "https://content.thewosgroup.com/productimage/17304444/17304444_1.png"
+  },
+  {
+    "id": 5,
+    "title": "Rolex Land‑Dweller",
+    "price": 10480,
+    "description": "the Land-Dweller presents a unique vision of modern sport watchmaking. With this model, Rolex has opened new horizons, both technical and aesthetic, looking resolutely to the future.",
+    "image": "https://www.bachendorfs.com/upload/rolex_v7/product/landscape/upright_m127334-0001.webp"
   }
 ]
